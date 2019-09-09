@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AulaListViewFixa</string>
+
+    <string-array name="lv_clientes">
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+        <item>João</item>
+        <item>Nego Jão</item>
+        <item>Jaime</item>
+        <item>Jacira</item>
+        <item>Julcimara</item>
+        <item>Juscelino</item>
+    </string-array>
+</resources>

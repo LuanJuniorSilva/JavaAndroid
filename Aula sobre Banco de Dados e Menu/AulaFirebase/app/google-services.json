@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "348031263526",
+    "firebase_url": "https://aulafirebase-1a016.firebaseio.com",
+    "project_id": "aulafirebase-1a016",
+    "storage_bucket": "aulafirebase-1a016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348031263526:android:7ea64663b062718f",
+        "android_client_info": {
+          "package_name": "firebase.aula.aulafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348031263526-rtpap70shv3kombdorgstiqnqg53o6jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+	{
+		"current_key": "AIzaSyCcEJKQdqKKxNtgrZM-cGcyxAAGE41vWJ0"
+	}
+],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

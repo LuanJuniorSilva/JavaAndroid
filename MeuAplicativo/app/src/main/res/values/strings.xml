@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyAplication</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="deep_orange">DEEP ORANGE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="light_green">LIGHT GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="light_blue">LIGHT BLUE</string>
+    <string name="indigo">INDIGO</string>
+    <string name="violet">VIOLET</string>
+    <string name="pink">PINK</string>
+    <string name="purple">PURPLE</string>
+    <string name="deep_purple">DEEP PURPLE</string>
+    <string name="cyan">CYAN</string>
+    <string name="teal">TEAL</string>
+    <string name="lime">LIME</string>
+    <string name="amber">AMBER</string>
+    <string name="brown">BROWN</string>
+    <string name="gray">GRAY</string>
+    <string name="blue_gray">BLUE GRAY</string>
+</resources>

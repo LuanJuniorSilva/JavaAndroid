@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora do IMC</string>
+
+    <!--meus strings personalizados-->
+    <string name="alert_titulo">Aqui está o resultado do seu IMC</string>
+    <string name="alert_botao">ok</string>
+
+    <string name="nome">Digite seu nome</string>
+    <string name="peso">Digite seu peso</string>
+    <string name="altura">Altura</string>
+    <string name="btn">Calcular IMC</string>
+
+    <string name="s_nome">Nome</string>
+    <string name="s_peso">Peso</string>
+    <string name="s_altura">Altura</string>
+
+
+    <string name="a">Você está abaixo do peso</string>
+    <string name="b">Você esta no peso ideal</string>
+    <string name="c">Você esta em SobrePeso</string>
+    <string name="d">Você esta com Obesidade Moderada</string>
+    <string name="e">Você esta com Obesidade Severa</string>
+    <string name="f">Você esta com Obesidade Mórbida</string>
+    <string name="g">Você esta com Super Obesidade</string>
+
+
+</resources>

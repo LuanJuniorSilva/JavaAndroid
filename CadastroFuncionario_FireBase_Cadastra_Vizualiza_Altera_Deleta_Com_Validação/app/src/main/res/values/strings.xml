@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Empresa</string>
+    <!--Tela Principal-->
+    <string name="tp_titulo">Cadastro de Funcionarios</string>
+    <string name="tp_btn">Cadastrar Funcionario</string>
+    <string name="tp_btn_cadastrados">Funcionarios Cadastrados</string>
+    <string name="tp_msg">Projeto de Lucas Wottrich e Gabriel Rymsza</string>
+    <!--Tela 2-->
+    <string name="ts_nome">Nome</string>
+    <string name="ts_endereco">Endereço</string>
+    <string name="ts_fone">Telefone</string>
+    <string name="ts_cpf">CPF</string>
+    <string name="ts_email">Email</string>
+    <string name="ts_cadastrar">Cadastrar</string>
+    <string name="ts_alterar">Alterar</string>
+    <string name="ts_voltar">Voltar</string>
+    <string name="ts_nao_apertar">Para o fim do projeto KKKK</string>
+    <!--Tela ListView-->
+    <string name="tlv_titulo">Funcionarios Cadastrados</string>
+    <string name="tlv_detalhes">Clique para mais detalhes</string>
+    <string name="tlv_novofuncionario">Cadastrar novo funcionario</string>
+    <!--Tela nova-->
+    <string name="tl_funcionario">Funcionario</string>
+    <string name="tl_nome">Nome</string>
+    <string name="tl_endereco">Endereço</string>
+    <string name="tl_fone">Telefone</string>
+    <string name="tl_cpf">CPF</string>
+    <string name="tl_email">Email</string>
+    <string name="tl_alterar">Alterar</string>
+    <string name="fuck_logic">fuck</string>
+
+</resources>

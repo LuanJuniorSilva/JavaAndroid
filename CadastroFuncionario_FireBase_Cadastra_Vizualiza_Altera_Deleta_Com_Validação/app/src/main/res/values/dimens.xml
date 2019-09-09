@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--Titulo-->
+    <dimen name="tp_titulo_size">40dp</dimen>
+    <!--msg-->
+    <dimen name="margin_btn_msg">155dp</dimen>
+    <dimen name="txt_size_msg">15dp</dimen>
+    <!--btn cadastre-se-->
+    <dimen name="txt_size_btn_cadas">20dp</dimen>
+    <dimen name="margin_btn_cadas">76dp</dimen>
+    <!--btn cadastrados-->
+    <dimen name="margin_btn_cadastrados">26dp</dimen>
+    <!--tela list view titulos-->
+    <dimen name="lv_txt_titulo_size">25dp</dimen>
+    <dimen name="lv_txt_subtitulo_size">15dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator IMC</string>
+
+    <!--meus strings personalizados-->
+    <string name="alert_titulo">Here is the result of your IMC</string>
+    <string name="alert_botao">ok</string>
+
+    <string name="nome">Type your name</string>
+    <string name="peso">Enter your weight</string>
+    <string name="altura">Height</string>
+    <string name="btn">Calculate IMC</string>
+
+    <string name="s_nome">Name</string>
+    <string name="s_peso">Weight</string>
+    <string name="s_altura">Height</string>
+
+    <string name="a">You are underweight</string>
+    <string name="b">You re at ideal weight.</string>
+    <string name="c">You are in Overweight</string>
+    <string name="d">You are Moderate Obesity</string>
+    <string name="e">Are You Obese With Severe Obesity?</string>
+    <string name="f">You are Morbidly Obese</string>
+    <string name="g">You re Super Obesity</string>
+
+
+</resources>

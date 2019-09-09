@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hijos de jugadores de Mortal Kombat</string>
+    <!--historias de personajes-->
+    <string name="h_baraka">Baraka un monstruo que vienen del infierno para comer a la gente, que es más conocido como la reencarnación de Freddy Krueger</string>
+    <string name="h_jax">Jax hombre que fue a la guerra Hitler y perdió un brazo, pero su amigo Ritler volvió sobre su brazo con un brazo de hierro</string>
+    <string name="h_johnnycage">JohnnyCage un playboy que se dio cuenta de su sueño de ser un lulator artes marciales, que ha ganado muchos campeonatos y su objetivo es ser el mejor</string>
+    <string name="h_kitana">Kitana uma mulher gurreira e forte com o seu leque forte e afiado ela usa na batalha para derrotar os inimigos</string>
+    <string name="h_kunglao">KungLao un fuerte par más su fuerza proviene de su increíble sombrero puede cortar a una persona por la mitad con mucho falicidade.</string>
+    <string name="h_liukang">Liukang un joven guerrero que perdió a su hermano, que tiene mucha fuerza, pero no infelizmene sabe cómo usar y siempre se siente insegura</string>
+    <string name="h_milena">Milena un fuerte guerrero joven con sus increíbles habilidades tienen clavos de acero que vienen a ayudar a sus amigos a derrotar el mal</string>
+    <string name="h_raiden">Raiden maestro de artes marciales se ha enfrentado a muchos combatientes y ganó su fama viaja por todo el mundo por matar a Bruce Lee</string>
+    <string name="h_scorpion">Escorpión una asesina ninja que tiene un poder increíble para dejar caer una serpende captura de la víctima su principal objetivo es eliminar todos los luchadores de artes marciales</string>
+    <string name="h_subzero">Sub ZeroNinja asesino bajo cero con su poder de congelar a una persona en tan solo un segundo, tiene la intención de dominar el mundo cuando alcanza su máxima potencia</string>
+    <string name="h_repitile">Reptil una muy fuerte ninja y tiene un poder que ningún otro ninjas tienen que es permanecer invisible frente al enemigo en tan sólo unos segundos desaparece por completo</string>
+    <string name="h_shangtsung">Shang Tsung este personaje tiene un poder aterrador que puede transformarse en cualquier persona, a diferencia de la XMEM mística más allá de su vez también tiene el poder de la persona</string>
+</resources>

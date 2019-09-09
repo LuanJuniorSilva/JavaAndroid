@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProvaLuan</string>
+
+    <string name="btn_ini_meta">Start goal</string>
+    <string name="nome">Meta Name</string>
+    <string name="peso_atual">Current weight</string>
+    <string name="peso_desejado">Desired weight</string>
+    <string name="sexo">Sex</string>
+    <string name="turno">Shift</string>
+    <string name="opcao">Option</string>
+    <string name="masc">Male</string>
+    <string name="femi">Female</string>
+    <string name="manha">Morning</string>
+    <string name="tarde">Afternoon</string>
+    <string name="noite">Night</string>
+
+    <string name="cadastrar">Register</string>
+
+    <string name="leve">Domestic work from light to moderate effort, walks to activities related to daily life and sit for several hours. Walks beyond the same activities related to the sednário compoartament. Up to 3 hours of physical activity per week.</string>
+    <string name="intenso">Moderate intensity cycling, running, skipping rope, playing tennis and in addition to activities related to moderate behavior. Over 12 hours of physical activity per week.</string>
+    <string name="moderado">Aerobic gymnastics, running, swimming, playing tennis, in addition to activities related to the lightweight. Up to 12 hours of physical activity per week.</string>
+
+
+
+    <string-array name="sp_opt">
+        <item>Light</item>
+        <item>Intense</item>
+        <item>Moderate</item>
+    </string-array>
+
+
+</resources>

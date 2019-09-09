@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tela_inicial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mortal"
+    tools:context="luan.silva.sonsdosjogadoresdomortalkombat.TelaInicial">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:id="@+id/layout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:id="@+id/layout1">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/baraka"
+            android:background="@drawable/baraka"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/jax"
+            android:background="@drawable/jax"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/johnnycage"
+            android:background="@drawable/johnnycage"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:id="@+id/layout2"
+
+        android:layout_below="@+id/layout1">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/kitana"
+            android:background="@drawable/kitana"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/kunglao"
+            android:background="@drawable/kunglao"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/liukang"
+            android:background="@drawable/liukang"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:id="@+id/layout3"
+        android:layout_below="@+id/layout2">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/milena"
+            android:background="@drawable/milena"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/raiden"
+            android:background="@drawable/raiden"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/scorpion"
+            android:background="@drawable/scorpion"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:id="@+id/layout4"
+
+        android:layout_below="@+id/layout3">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/subzero"
+            android:background="@drawable/subzero"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/repitile"
+            android:background="@drawable/reptile"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:id="@+id/shangtsung"
+            android:background="@drawable/shangtsung"
+            />
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

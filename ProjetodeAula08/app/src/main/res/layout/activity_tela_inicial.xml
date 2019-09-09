@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tela_inicial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="luan.silva.projetodeaula08.TelaInicial">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+   <EditText
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/nome"
+       android:hint="Digite seu nome ..."/>
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/tc_grupo_sexo"
+        >
+
+
+        <RadioButton
+            android:text="Masculino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tc_rd_masculino"
+            android:layout_weight="1" />
+
+        <RadioButton
+            android:text="Feminino"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tc_rd_feminino"
+            android:layout_weight="1" />
+
+    </RadioGroup>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Digite sua Linguagem favorita"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        />
+    <CheckBox
+        android:text="PHP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/php" />
+
+    <CheckBox
+        android:text="ASP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/asp" />
+
+    <CheckBox
+        android:text="JAVA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/java" />
+
+    <CheckBox
+        android:text="DELPHI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/delphi" />
+    <Button
+        android:layout_width="match_parent"
+        android:text="Comprar"
+        android:layout_height="wrap_content"
+        android:id="@+id/comprar"/>
+</LinearLayout>
+
+</RelativeLayout>

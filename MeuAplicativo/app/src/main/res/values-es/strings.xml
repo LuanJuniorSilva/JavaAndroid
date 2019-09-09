@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="red">rojo</string>
+    <string name="orange">naranja</string>
+    <string name="deep_orange">naranja profundo</string>
+    <string name="yellow">amarillo</string>
+    <string name="green">verde</string>
+    <string name="light_green">verde claro</string>
+    <string name="blue">azul</string>
+    <string name="light_blue">azul claro</string>
+    <string name="indigo">INDIGO</string>
+    <string name="violet">Violeta</string>
+    <string name="pink">rosado</string>
+    <string name="purple">púrpura</string>
+    <string name="deep_purple">morado oscuro</string>
+    <string name="cyan">ciánico</string>
+    <string name="teal">trullo</string>
+    <string name="lime">cal</string>
+    <string name="amber">ámbar</string>
+    <string name="brown">marrón</string>
+    <string name="gray">gris</string>
+    <string name="blue_gray">gris azulado</string>
+</resources>

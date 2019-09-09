@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--My Colors-->
+    <color name="btnEntrarBack">#ff5340</color>
+    <color name="btnSalvarBack">#0000ff</color>
+    <color name="btnEntrartText">#FFFFFF</color>
+    <color name="color_hint">#FFFFFF</color>
+
+
+</resources>

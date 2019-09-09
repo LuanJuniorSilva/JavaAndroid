@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tela_inicial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="luan.silva.exercicioaula09.TelaInicial">
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Digite seu nome completo"
+              android:id="@+id/ti_nome"/>
+
+          <RadioGroup
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/gp_sexo"
+              android:orientation="horizontal">
+              <RadioButton
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/masc"
+                  android:text="Masculino"/>
+              <RadioButton
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/femi"
+                  android:text="Feminino"/>
+          </RadioGroup>
+
+          <Spinner
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:spinnerMode="dialog"
+              android:layout_marginTop="10dp"
+              android:id="@+id/estado_civil"
+              android:entries="@array/estado_civil"
+              />
+          <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Digite sua rua Ex. Rua Goias n 33"
+              android:id="@+id/ti_rua"/>
+          <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Digite o nome do seu bairro"
+              android:id="@+id/ti_bairro"/>
+          <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Digite o nome da sua cidade"
+              android:id="@+id/ti_cidade"/>
+          <Spinner
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:spinnerMode="dropdown"
+              android:layout_marginTop="10dp"
+              android:id="@+id/estado"
+              android:entries="@array/estado"
+              />
+          <Button
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="20dp"
+              android:text="salvar"
+              android:textColor="#ffffff"
+              android:id="@+id/btn_salvar"
+              android:background="#0000ff" />
+
+
+
+      </LinearLayout>
+
+  </ScrollView>
+
+
+</RelativeLayout>

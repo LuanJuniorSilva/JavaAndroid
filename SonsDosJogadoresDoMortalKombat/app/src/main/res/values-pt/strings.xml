@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sons Dos Jogadores Do Mortal Kombat</string>
+    <!--historias dos personagens-->
+    <string name="h_baraka">Baraka um monstro que venho do inferno para devorar as pessoas, ele é mais conhecido como a reencarnação de Freddy Krueger</string>
+    <string name="h_jax">Jax homem que foi para a guerra do Ritler e perdeu um braço, mas seu amigo Ritler reconstituiu seu braço com um braço de ferro</string>
+    <string name="h_johnnycage">JohnnyCage um playboy que realizou seu sonho em ser um lulator de artes marciais, já ganhou muitos campeonatos e seu objetivo é ser o melhor</string>
+    <string name="h_kitana">Kitana uma mulher gurreira e forte com o seu leque forte e afiado ela usa na batalha para derrotar os inimigos</string>
+    <string name="h_kunglao">KungLao um jovem forte mais a sua força vem de seu incrivel chapéu que pode cortar uma pessoa ao meio com muita falicidade.</string>
+    <string name="h_liukang">LiuKang um jovem guerreiro que perdeu seu irmão, ele tem muita força, mas infelizmene não sabe usar e está sempre se sentindo inseguro</string>
+    <string name="h_milena">Milena uma jovem guerreira muito forte com suas habilidades incriveis de ter unhas de aço ela venho para ajudar seus amigos a vencer o mal</string>
+    <string name="h_raiden">Raiden mestre de artes marcias já enfrentou muitos lutadores e venceu, sua fama percorre por todo mundo por ter matado Bruce Lee</string>
+    <string name="h_scorpion">Scorpion um ninja assassino que tem um poder incrivel de soltar uma serpende capturando a vitima seu principal objetivo é eliminar todos os lutadores de artes marcias</string>
+    <string name="h_subzero">Sub Zero ninja assassino com seu poder de congelar uma pessoa em apenas 1 segundo, ele pretende dominar o mundo quando atingir seu poder máximo</string>
+    <string name="h_repitile">Repitile um ninja muito forte e tem poder que nenhum outro ninja tem que é ficar invisível na frente do inimigo em apenas alguns segundos ele desaparece por completo</string>
+    <string name="h_shangtsung">ShangTsung este personagem tem um poder assustador ele pode se transformar em qualquer pessoa e diferentemente da mistica o XMEM ele além de transformar também tem o poder da pessoa</string>
+</resources>

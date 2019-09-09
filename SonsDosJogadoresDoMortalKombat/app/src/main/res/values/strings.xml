@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mortal Kombat Player Sounds</string>
+
+    <!--nome dos personagens-->
+    <string name="baraka">Baraka</string>
+    <string name="jax">Jax</string>
+    <string name="johnnycage">JohnnyCage</string>
+    <string name="kitana">Kitana</string>
+    <string name="kunglao">KungLao</string>
+    <string name="liukang">LiuKang</string>
+    <string name="milena">Milena</string>
+    <string name="raiden">Raiden</string>
+    <string name="scorpion">Scorpion</string>
+    <string name="subzero">Sub Zero</string>
+    <string name="repitile">Repitile</string>
+    <string name="shangtsung">ShangTsung</string>
+
+    <string name="msg">ok</string>
+
+    <!--historias dos personagens-->
+    <string name="h_baraka">Baraka a monster who comes from hell to devour people, he is best known as the reincarnation of Freddy Krueger</string>
+    <string name="h_jax">Jax man who went to Hitler s war and lost an arm, but his friend Ritler reconstituted his arm with an iron arm</string>
+    <string name="h_johnnycage">JohnnyCage a playboy who has fulfilled his dream of being a martial arts lulator, has won many championships and his goal is to be the best</string>
+    <string name="h_kitana">Kitana a warrior woman and strong with her strong and sharp fan she uses in battle to defeat enemies</string>
+    <string name="h_kunglao">KungLao a strong young man plus his strength comes from his incredible hat that can cut a person in half with much falicidad.</string>
+    <string name="h_liukang">LiuKang a young warrior who lost his brother, he has a lot of strength, but unfortunately he does not know how to use and is always feeling insecure</string>
+    <string name="h_milena">Milena a very strong young warrior with her incredible abilities to have steel nails she came to help her friends to overcome evil</string>
+    <string name="h_raiden">Raiden master of martial arts has faced many fighters and won, his fame goes around for having killed Bruce Lee</string>
+    <string name="h_scorpion">Scorpion a ninja assassin who has an incredible power to drop a serpende capturing the victim its main goal is to eliminate all martial arts fighters</string>
+    <string name="h_subzero">Sub zero ninja assassin with his power to freeze a person in only 1 second, he intends to dominate the world when he reaches his maximum power</string>
+    <string name="h_repitile">Reptile a very strong ninja and has a power that no other ninja has that is to be invisible in front of the enemy in just a few seconds it disappears completely</string>
+    <string name="h_shangtsung">ShangTsung this character has a scary power he can turn into any person and unlike the mystical the XMEM he besides transform also has the power of the person</string>
+</resources>

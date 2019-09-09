@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516572071463",
+    "firebase_url": "https://locadoradasorte.firebaseio.com",
+    "project_id": "locadoradasorte",
+    "storage_bucket": "locadoradasorte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516572071463:android:c6e4c5f1a2df505e",
+        "android_client_info": {
+          "package_name": "luan.silva.locadoradasorte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516572071463-10420kje369qtveusrtp0kt76kb9p91c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzlVMm5pNDQx6xQpxR4u-R2yQlq3pn6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

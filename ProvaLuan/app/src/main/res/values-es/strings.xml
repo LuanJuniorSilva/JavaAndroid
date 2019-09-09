@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProvaLuan</string>
+
+    <string name="btn_ini_meta">Iniciar Meta</string>
+    <string name="nome">Nombre w / Meta</string>
+    <string name="peso_atual">Peso actual</string>
+    <string name="peso_desejado">Peso deseado</string>
+    <string name="sexo">Sexo</string>
+    <string name="turno">Combate</string>
+    <string name="opcao">Opción</string>
+    <string name="masc">Masculino</string>
+    <string name="femi">Feminino</string>
+    <string name="manha">Mañana</string>
+    <string name="tarde">Tarde</string>
+    <string name="noite">Noche</string>
+
+    <string name="cadastrar">Registrar</string>
+
+    <string name="leve">Las tareas del hogar luz modreado esfuerzo, camina a las actividades relacionadas con la vida diaria y para sentarse durante varias horas. Senderismo, además de estas actividades relacionadas con sednetário compoartament. Hasta 3 horas física semana atividad.</string>
+    <string name="intenso">moderada intensidad en bicicleta, correr, saltar la cuerda, jugar al tenis y además de las actividades relacionadas con el comportamiento moderado. Más de 12 horas de actividad física por semana.</string>
+    <string name="moderado">Ginástica aeróbica, corrida, natação, jogar tênicas, além das atividades relacionadas ao compoartamente leve. Até 12 horas de atividade física por semana.</string>
+
+
+
+    <string-array name="sp_opt">
+        <item>luz</item>
+        <item>Intenso</item>
+        <item>Moderado</item>
+    </string-array>
+</resources>
